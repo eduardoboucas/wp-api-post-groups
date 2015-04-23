@@ -1,0 +1,13 @@
+{
+    "name": "eduardoboucas/wp-api-post-groups",
+    "description": "Allows multiple groups of posts with different filters to be obtained from the WP-API in a single request",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Eduardo Boucas",
+            "email": "mail@eduardoboucas.com"
+        }
+    ]
+}
