@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: WP-API Post Groups
- * Plugin URI: https://github.com/eduardoboucas/WP_JSON_Post_Groups
+ * Plugin URI: https://github.com/eduardoboucas/wp-api-post-groups
  * Description: Allows multiple groups of posts with different filters to be obtained from the WP-API in a single request
  * Version: 0.1.0
  * Author URI: https://eduardoboucas.com
  * License: MIT
  */
 
-class WP_JSON_Post_Groups {
+class WP_API_Post_Groups {
 	protected $server;
 
 	/**
@@ -86,4 +86,4 @@ class WP_JSON_Post_Groups {
 	}
 }
 
-$multipost = new WP_JSON_Post_Groups();
+$multipost = new WP_API_Post_Groups();
