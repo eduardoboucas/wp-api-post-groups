@@ -9,5 +9,8 @@
             "name": "Eduardo Boucas",
             "email": "mail@eduardoboucas.com"
         }
-    ]
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
