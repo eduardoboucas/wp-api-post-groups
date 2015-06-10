@@ -12,6 +12,6 @@
     ],
     "require": {
         "composer/installers": "~1.0",
-        "wp-api/wp-api": "~1.2"
+        "wpackagist-plugin/json-rest-api": "~1.2"
     }
 }
