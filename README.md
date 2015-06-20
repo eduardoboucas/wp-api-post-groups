@@ -11,7 +11,7 @@ However, an API-first approach means that every bit of information from the back
 Currently, the grouping only works with [filters](http://wp-api.org/#posts_retrieve-posts_input) and it's available on two endpoints:
 
 - **/postgroups**: Returns groups of posts
-- **/postpages**: Returns groups of pages
+- **/pagegroups**: Returns groups of pages
 
 Each group is defined in the URL with a label and a set of filters in this format: `label:filter[filter_type]=value`. The response is a JSON object with one node per group, named after the label.
 
