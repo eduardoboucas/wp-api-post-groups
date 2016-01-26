@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # WP-API Post Groups
 
 A [WP-API](http://wp-api.org/) extension that allows multiple groups of posts with different filters to be obtained in a single request.
